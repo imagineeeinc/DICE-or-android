@@ -1,9 +1,0 @@
-set config = jf-folder8-libs
-import "android-libs"
-import "android-jf-libs"
-import "bar-libs"
-import "andro-jf"
-import "ando-pie"
-import "jf-zip"
-import "jf-xml"
-import "andro-studio-proj-lib"
